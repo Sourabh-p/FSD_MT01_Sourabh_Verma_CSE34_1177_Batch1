@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Library Book Management API (Set A)
 
 REST API built with Node.js and Express.js. Data is stored in an in-memory JavaScript array (no database).
@@ -33,3 +34,6 @@ Server starts at `http://localhost:3000`.
   "available": true
 }
 ```
+=======
+# FSD_MT01_Sourabh_Verma_CSE34_1177_Batch1
+>>>>>>> 5a9de11dd24f34a91880e18acdc2a8319171d392
